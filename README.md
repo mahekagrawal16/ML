@@ -22,7 +22,5 @@ Demonstrates scalable and interpretable recommendation logic.
 
 **Mahek Agrawal**  
 GitHub: https://github.com/mahekagrawal16
-
 LinkedIn: linkedin.com/in/mahek-agrawal-503819255
-
 Email: mahek.suresh.aug2004@gmail.com
