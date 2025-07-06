@@ -18,7 +18,7 @@ Employed cosine similarity to compute relevance scores between movies.
 Provides top-N recommendations based on semantic similarity.
 Demonstrates scalable and interpretable recommendation logic.
 
-#Author
+<strong>Author</strong>
 
 **Mahek Agrawal**  
 GitHub: https://github.com/mahekagrawal16       
